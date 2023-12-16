@@ -1,0 +1,33 @@
+@media (max-width: 496px) {
+    body {
+        font-size: 13px;
+    }
+    
+    .card {
+        max-width: 320px;
+        padding: 25px;
+    }
+
+    .card .star {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .card h1 {
+        font-size: 24px;
+    }
+
+    .card p {
+        line-height: 20px;
+    }
+
+    .rating-scale {
+        margin-bottom: 20px;
+    }
+
+    .rating {
+        width: 40px;
+        height: 40px
+    }
+}
